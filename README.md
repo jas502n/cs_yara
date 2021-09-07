@@ -6,7 +6,7 @@ https://github.com/CCob/BeaconEye
 
 rule from https://raw.githubusercontent.com/CCob/BeaconEye/master/BeaconEye.cs
 
-### beaconEye.yar
+#### beaconEye.yar
 
 ```
 rule CobaltStrike { 
@@ -17,6 +17,17 @@ rule CobaltStrike {
 }
 
 ```
+
+#### yara download
+
+https://virustotal.github.io/yara/
+
+
+https://github.com/virustotal/yara/releases/latest
+
+![](./images/yara.png)
+
+## cs beacon
 
 ![](./images/cs-beacon.png)
 
