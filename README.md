@@ -4,6 +4,9 @@ Check Cobalt Strike Yara Rules
 #### 参考链接
 https://github.com/CCob/BeaconEye
 
+BeaconEye Bug Fix:
+https://wbglil.gitbook.io/cobalt-strike/cobalt-strike-gong-ji-fang-yu/untitled-1
+
 rule from https://raw.githubusercontent.com/CCob/BeaconEye/master/BeaconEye.cs
 
 #### beaconEye.yar
