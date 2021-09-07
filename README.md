@@ -1,5 +1,5 @@
-# cs_yara
-check cs yara rules
+# cs_yara 
+Check Cobalt Strike Yara Rules
 
 #### 参考链接
 https://github.com/CCob/BeaconEye
